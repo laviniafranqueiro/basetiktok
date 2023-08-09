@@ -1,3 +1,5 @@
 import pandas as pd
 
-df = pd.read_ukraine.csv("https://raw.githubusercontent.com/mateuspestana/datasets_aulas/main/ukraine.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/mateuspestana/datasets_aulas/main/ukraine.csv")
+print("Abre a base de dados")
+print(df)
